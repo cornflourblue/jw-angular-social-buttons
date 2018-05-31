@@ -1,5 +1,3 @@
-# jw-angular-pagination
+# jw-angular-social-buttons
 
-Angular Pagination Component
-
-Usage instructions available at http://jasonwatmore.com/post/2018/04/26/npm-jw-angular-pagination-component
+Angular 2+ Social Sharing Buttons
