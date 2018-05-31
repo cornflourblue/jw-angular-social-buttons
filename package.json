@@ -1,0 +1,24 @@
+{
+    "name": "jw-angular-social-buttons",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cornflourblue/jw-angular-social-buttons.git"
+    },
+    "scripts": {
+        "build": "tsc"
+    },
+    "main": "./lib/jw-angular-social-buttons.module.js",
+    "module": "./lib/jw-angular-social-buttons.module.js",
+    "types": "./lib/jw-angular-social-buttons.module.d.ts",
+    "license": "MIT",
+    "devDependencies": {
+        "@angular/common": "^5.2.10",
+        "@angular/compiler": "^5.2.10",
+        "@angular/core": "^5.2.10",
+        "@types/node": "^9.6.6",
+        "rxjs": "^5.5.10",
+        "typescript": "^2.8.3",
+        "zone.js": "^0.8.26"
+    }
+}
