@@ -1,10 +1,6 @@
 {
-  "name": "angular-6-custom-modal",
+  "name": "jw-angular-social-buttons-demo",
   "version": "1.0.0",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/cornflourblue/angular-6-custom-modal.git"
-  },
   "scripts": {
     "build": "webpack --mode production",
     "start": "webpack-dev-server --mode development --open"
@@ -19,6 +15,7 @@
     "@angular/platform-browser-dynamic": "^6.0.0",
     "@angular/router": "^6.0.0",
     "core-js": "^2.5.5",
+    "jw-angular-social-buttons": "0.0.1",
     "rxjs": "^6.1.0",
     "zone.js": "^0.8.26"
   },

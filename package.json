@@ -1,6 +1,7 @@
 {
     "name": "jw-angular-social-buttons",
     "version": "0.0.1",
+    "homepage": "http://jasonwatmore.com/post/2018/06/01/angular-2-social-sharing-buttons-for-facebook-google-plus-twitter-linkedin-and-pinterest",
     "repository": {
         "type": "git",
         "url": "https://github.com/cornflourblue/jw-angular-social-buttons.git"
